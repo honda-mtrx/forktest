@@ -4,6 +4,15 @@ Test3
 
 an
 
+
 function bye(){
 printf("bye");
 }
+
+
+function hello(){
+a=0
+b=0
+c=12
+}
+
