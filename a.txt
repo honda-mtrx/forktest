@@ -3,3 +3,7 @@ Test2
 Test3
 
 an
+
+function bye(){
+printf("bye");
+}
