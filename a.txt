@@ -3,3 +3,9 @@ Test2
 Test3
 
 an
+
+function hello(){
+a=0
+b=0
+c=12
+}
